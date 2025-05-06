@@ -27,7 +27,12 @@
             "inlineStyleLanguage": "less",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "CNAME",
+                "input": "./public",
+                "output": "./"
+              }
             ],
             "styles": [
               "src/styles.less",
