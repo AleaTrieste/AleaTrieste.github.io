@@ -1,0 +1,255 @@
+{
+    "SLOGAN": "Promotori di giochi da tavolo e giochi di ruolo dal 1995",
+    "ADDRESS": "Via San Francesco 4/1, Trieste - Primo piano - Scala B",
+    "WHEN": "EVENTI",
+    "WHO": "CHI SIAMO",
+    "WHERE": "DOVE TROVARCI",
+    "EXPAND_TEXT": "clicca per i dettagli",
+    "EVENTS": [
+        {
+            "DATE": "2024-11-15T17:30:00Z",
+            "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
+            "TITLE": "International Games Month 2024",
+            "DESCRIPTION": "15 novembre 17.30 - 20.30\nBiblioteca Stelio Mattioni",
+            "EXPANSION": [
+                {
+                    "TEXT": "15 novembre 17.30 - 20.30\nBiblioteca Stelio Mattioni",
+                    "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-01-08T19:00:00Z",
+            "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
+            "TITLE": "GameNights gennaio 2025",
+            "DESCRIPTION": "8 gennaio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+            "EXPANSION": [
+                {
+                    "TEXT": "8 gennaio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+                    "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-01-26T18:30:00Z",
+            "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
+            "TITLE": "GiocaMuggia 2025",
+            "DESCRIPTION": "Domenica 26 gennaio 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+            "EXPANSION": [
+                {
+                    "TEXT": "Domenica 26 gennaio 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+                    "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-02-19T19:00:00Z",
+            "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
+            "TITLE": "GameNights febbraio 2025",
+            "DESCRIPTION": "19 febbraio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+            "EXPANSION": [
+                {
+                    "TEXT": "19 febbraio 19.00 - 22.00\nSala studio, piano terra, edificio H3",
+                    "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-02-28T18:30:00Z",
+            "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+            "TITLE": "Torneo di Catan Febbraio 2025",
+            "DESCRIPTION": "Domenica 28 febbraio 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
+            "EXPANSION": [
+                {
+                    "TEXT": "Domenica 28 febbraio 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
+                    "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-04-09T19:00:00Z",
+            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+            "TITLE": "Avventure da Tavolo marzo / aprile 2025\n1a parte",
+            "DESCRIPTION": "",
+            "EXPANSION": [
+                {
+                    "TEXT": "21 marzo 17.30-20.30 giochi da tavolo\n9 aprile 17.00-19.00 laboratorio di scacchi\n\"Biblioteca Mattioni\" - Borgo San Sergio",
+                    "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-04-11T20:30:00Z",
+            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+            "TITLE": "Avventure da Tavolo marzo / aprile 2025\n2a parte",
+            "DESCRIPTION": "",
+            "EXPANSION": [
+                {
+                    "TEXT": "8 aprile 17.00-18.30 laboratorio di scacchi\n10 aprile 17.00-18.30 laboratorio di scacchi\n11 aprile 17.30-20.30 giochi da tavolo\n\"Biblioteca Gambini\" - San Giacomo",
+                    "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+                    "ALT_TEXT": "Immagine della locandina dell'evento"
+                }
+            ]
+        }
+    ],
+    "DESCRIPTION": [
+        {
+            "TITLE": "CHI SIAMO",
+            "INTRO": "Siamo “ALEA”, un’associazione ludica di Trieste fondata nel 1995.\nL'Associazione di Promozione Sociale è un'associazione culturale che promuove il gioco in tutte le sue forme, valorizzandolo come strumento di aggregazione e di integrazione sociale.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/description_who.jpg",
+            "ALT_TEXT": "Immagine raffigurante alcuni giochi dell'associazione",
+            "EXPANSION": [
+                {
+                    "TEXT": "Siamo “ALEA”, un’associazione ludica di Trieste fondata nel 1995.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "L'Associazione di Promozione Sociale è un'associazione culturale che promuove il gioco in tutte le sue forme, valorizzandolo come strumento di aggregazione e di integrazione sociale.",
+                    "IMAGE": "./assets/img/who_expansion-0.jpg",
+                    "ALT_TEXT": "Immagine raffigurante alcuni gadget con il logo di Alea"
+                },
+                {
+                    "TEXT": "Si tratta di un'associazione libera, apolitica che persegue il suo scopo sociale con impegno volontario e non retribuito. Favorisce la crescita del gioco tramite la partecipazione e l'organizzazione di eventi, manifestazioni, tornei e attività ludiche quotidiane.\nRipudiamo il gioco d'azzardo.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Dell'ALEA fanno parte principalmente soci adulti con la passione per vari generi di giochi da tavolo, giochi di ruolo e wargames tridimensionali.",
+                    "IMAGE": "./assets/img/who_expansion-1.jpg",
+                    "ALT_TEXT": "Foto di alcuni membri dell'associazione che continuano una riunione al bar"
+                },
+                {
+                    "TEXT": "L'associazione dispone di una sede con quattro tavoli e una ludoteca in continuo ampliamento, i soci organizzano liberamente serate gioco utilizzando sia i giochi disponibili in ludoteca che i giochi di cui sono proprietari. L'attività è vivace e quotidiana, concentrata principalmente nelle ore serali dei giorni feriali e soprattutto nei fine settimana, anche mattina e pomeriggio. I soci possono organizzare le attività quotidiane disponendo di un'organizzatissima chat su telegram e di un calendario di prenotazione su Google Calendar.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                }
+            ]
+        },
+        {
+            "TITLE": "GLI EVENTI OPEN",
+            "INTRO": "Da diversi anni l’Alea si è prodigata nell’aprire periodicamente la propria sede alla cittadinanza, organizzando serate open aperte ad interessati e curiosi, per offrire a chiunque l'occasione e la possibilità di scoprire il grande mondo dei giochi e l'attività dell'associazione.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/description_events.jpg",
+            "ALT_TEXT": "Immagine di una locandina dell'associazione all'entrata di un evento dell'associazione",
+            "EXPANSION": [
+                {
+                    "TEXT": "Da diversi anni l’Alea si è prodigata nell’aprire periodicamente la propria sede alla cittadinanza, organizzando serate open aperte ad interessati e curiosi, per offrire a chiunque l'occasione e la possibilità di scoprire il grande mondo dei giochi e l'attività dell'associazione.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Gli eventi open sono stati pubblicizzati principalmente tramite i social o il passaparola, chiunque può partecipare per venire a conoscerci o per trascorrere una serata diversa, per cimentarsi con qualche gioco in buona compagnia.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Molti di noi sono diventati soci proprio dopo aver partecipato ad una di queste serate: l'accoglienza dei soci e il divertimento sono sempre così coinvolgenti da indurre spesso a voler far parte di questo variegato gruppo di appassionati giocatori.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Non mancano le serate a tema: momenti conviviali in cui soci e simpatizzanti si dedicano a giochi ambientati seguendo un filo conduttore: ad esempio la ormai tradizionale serata horror ad Aleaween il 31 ottobre, e poi le serate Spaziali fra stelle e pianeti, le serate Western con sceriffi e fuorilegge, le serate Classiche nel mondo antico... Senza contare che di tanto in tanto organizziamo eventi fuori sede aperti ai soci e famiglie come le osmizzate sul carso triestino, o le battaglie di paintball, sempre ravvivati dai momenti di gioco cementando l’amicizia fra i soci e trascorrendo piacevoli giornate in compagnia.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Dal 2024 è stato istituito il sabato sera “Chi c'è c'è”: senza che ci si debba organizzare preventivamente, qualunque socio può partecipare alla serata dedicata all'improvvisazione presentandosi puntualmente entro le 20.30, ogni sabato è l'occasione per conoscerci fra noi, per giocare ai giochi della ludoteca o a quelli portati dagli altri partecipanti, o magari per proporre quel gioco impolverato che da tempo giace abbandonato e che vorremmo sperimentare. Il “Chi c'è c'è” è la serata imprevedibile e stupefacente che ogni sabato ravviva l'associazione. Non è insolito che talvolta partecipino anche simpatizzanti, quindi, pur non essendo ufficialmente aperta ai non soci, sappiate che è probabile che il sabato ci troviate lì, e che possiate magari unirvi a noi.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                }
+            ]
+        },
+        {
+            "TITLE": "ATTIVITÀ ESTERNE",
+            "INTRO": "Nei primi anni 2000 Alea è stata tra le associazioni fondatrici di “Trieste d20gioco”, e ha partecipato alla riuscita degli eventi “Fumetti per gioco” per diversi anni.\nAlea è cofondatrice di Federludo, la federazione italiana delle associazioni ludiche.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/description_activities.jpg",
+            "ALT_TEXT": "Immagine dell'entrata ad un evento dell'associazione durante il Science-Fiction Festival 2024",
+            "EXPANSION": [
+                {
+                    "TEXT": "Nei primi anni 2000 Alea è stata tra le associazioni fondatrici di “Trieste d20gioco”, e ha partecipato alla riuscita degli eventi “Fumetti per gioco” per diversi anni.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Alea è cofondatrice di Federludo, la federazione italiana delle associazioni ludiche.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Dal 2022 stiamo collaborando con il Comune di Trieste gestendo il progetto “Avventure da tavolo” di divulgazione dei giochi da tavolo presso le biblioteche del Comune animando i pomeriggi in biblioteca dedicati alle attività ludiche in qualità di esperti di giochi, accogliendo famiglie, bambini dei ricreatori e curiosi di ogni età e offrendo loro la possibilità di provare i giochi delle biblioteche o i giochi della nostra associazione.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "In questi ultimi anni abbiamo curato nei mesi di novembre l’International Games Month, oltre alla collaborazione con le biblioteche comunali, anche organizzando e promuovendo altre attività, ad esempio presso SISSA, o in collaborazione con l’Osservatorio Astronomico di Trieste o con con conferenze mirate sul tema gioco.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Nel 2024 abbiamo collaborato con la Lybra Cooperativa Sociale Onlus per avvicinare i giovani utenti della cooperativa al gioco, promuovendo dinamiche relazionali positive, stimolando l’interesse per attività ludiche e incentivando passatempi sani.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Nello stesso anno abbiamo iniziato ad organizzare, in collaborazione con il locale di Viale XX settembre “In bocca al gioco”, dei tornei aperti alla cittadinanza de “I Coloni di Catan” e “Ticket to Ride - Europa” validi per le qualificazioni nazionali.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "La nostra associazione ha frequentemente testato prototipi di giochi, diventando Beta tester per la Giochix Editions e per la White Cocal Press, editore triestino di giochi di successo come Friko Bestiale o Tachite al Tram.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Da aprile del 2023 abbiamo la nostra nuova bellissima sede in Via San Francesco 4/1 Trieste Primo piano - Scala B.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                }
+            ]
+        }
+    ],
+    "GAMES": [
+        {
+            "TITLE": "Giochi da Tavolo",
+            "IMG_SRC": "./assets/img/games/gdt.jpg",
+            "EXPANSION": [
+                {
+                    "TEXT": "Molti sono i soci appassionati di giochi da tavolo di ogni genere: dai german agli american, passando per i giochi astratti, i dungeon crawler,  i legacy... mille e più di mille sono i giochi che vengono intavolati e giocati ogni giorno, ce n'è per tutti i gusti, un intero mondo da scoprire. E se ci avanzano venti minuti nell'attesa di qualche ritardatario o per completare le serate siamo sempre pronti ad intavolare qualche filler semplice, divertente o sfindante.",
+                    "IMAGE": "./assets/img/games/gdt-expansion-0.jpg",
+                    "ALT_TEXT": "Immagine raffigurante una partita al gioco da tavolo Storm Raiders"
+                }
+            ]
+        },
+        {
+            "TITLE": "Giochi di Ruolo",
+            "IMG_SRC": "./assets/img/games/gdr.jpg",
+            "EXPANSION": [
+                {
+                    "TEXT": "I giochi di ruolo sono esperienze immersive che permettono di vivere storie fantastiche, vestire i panni di personaggi unici e decidere insieme agli altri giocatori il destino di mondi immaginari.\nDiversi sono i master associati che animano le serate della nostra associazione: c’è chi preferisce creare avventure stile fantasy classico, con D&D o nella Terra di Mezzo, e chi invece si avventura in ambientazione steampunk, horror, fantascienza: l'immaginazione non ha limiti.",
+                    "IMAGE": "./assets/img/games/gdr-expansion-0.jpg",
+                    "ALT_TEXT": "Immagine di una sessione del gioco di ruolo Lovecraftesque"
+                }
+            ]
+        },
+        {
+            "TITLE": "Wargames",
+            "IMG_SRC": "./assets/img/games/wargames.jpg",
+            "EXPANSION": [
+                {
+                    "TEXT": "I giochi tridimensionali con le miniature combinano strategia, abilità tattiche e modellismo, permettendo ai giocatori di schierare eserciti in scenari tridimensionali dove ogni mossa può cambiare le sorti della battaglia.\nMolti soci si dedicano a questa attività, fronteggiandosi sia in ambientazioni storiche che fantastiche, creando con passione e grande maestria bellissime miniature da vedere e da usare. L'associazione propone anche corsi di pitturazione miniature e di creazione scenari.",
+                    "IMAGE": "./assets/img/games/wargames-expansion-0.jpg",
+                    "ALT_TEXT": "Immagine raffigurante una partita al gioco da tavolo bloodstones"
+                }
+            ]
+        }
+    ]
+}

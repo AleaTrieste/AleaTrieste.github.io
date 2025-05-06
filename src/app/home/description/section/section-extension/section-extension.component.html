@@ -1,0 +1,11 @@
+<div class="container">
+    <p class="title">{{title}}</p>
+    <ng-container *ngFor="let section of expansion; let i = index">
+        <div class="section-container" [title]="section.ALT_TEXT">
+            <div class="img-container" *ngIf="section.IMAGE">
+                <img [src]="section.IMAGE" [alt]="section.ALT_TEXT">
+            </div>
+            <p>{{section.TEXT}}</p>
+        </div>
+    </ng-container>
+</div>

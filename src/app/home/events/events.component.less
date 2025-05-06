@@ -1,0 +1,157 @@
+@slider-height: 60vh;
+@card-transition: 0.5s ease;
+@dot-size: 10px;
+@dot-spacing: 5px;
+@dot-color: var(--gray-hex);
+@dot-active-color: var(--red-hex);
+@card-margin: 0.5%;
+@border-radius: var(--round-em);
+
+:host {
+    position: relative;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 4vmin;
+
+    #slogan-container {
+        p {
+            font-style: italic;
+        }
+
+        @media (orientation: portrait) {
+            max-width: 75vw;
+            text-align: center;
+        }
+    }
+
+    .slider-container {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        width: 100%;
+        height: @slider-height;
+
+        .arrow-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            z-index: 10;
+
+            &.left {
+                left: 10px;
+            }
+
+            &.right {
+                right: 10px;
+            }
+        }
+    }
+
+    .cards-wrapper {
+        display: flex;
+        transition: transform @card-transition;
+        width: 100%;
+        height: 100%;
+        align-items: center;
+
+        .card {
+            position: relative;
+            flex-shrink: 0;
+            width: 60%;
+            height: 100%;
+            background-position: center;
+            background-size: cover;
+            margin: 0 @card-margin;
+            transition: all @card-transition;
+            border-radius: @border-radius;
+            left: -40%;
+            cursor: pointer;
+
+            &.small {
+                width: 30%;
+                height: 50%;
+                opacity: 0.6;
+
+                @media (orientation: portrait) {
+                    .title, .description {
+                        visibility: hidden;
+                    }
+                }
+            }
+
+            &.medium {
+                width: 40%;
+                height: 75%;
+                opacity: 0.8;
+
+                @media (orientation: portrait) {
+                    .title, .description {
+                        visibility: hidden;
+                    }
+                }
+            }
+
+            &.large {
+                width: 60%;
+                height: 100%;
+                opacity: 1;
+            }
+
+            .card-content {
+                position: absolute;
+                background: rgba(0, 0, 0, 0.32);
+                text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+                border-radius: @border-radius;
+                width: 100%;
+                height: 100%;
+                padding: 10px;
+
+                .title {
+                    color: var(--white-hex);
+                    white-space: pre-line;
+                }
+
+                .description {
+                    color: var(--white-hex);
+                    white-space: pre-line;
+                }
+
+                .expand-text {
+                    color: var(--white-hex);
+                    white-space: pre-line;
+                    font-style: italic;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+
+    .dots {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+
+        .dot {
+            width: @dot-size;
+            height: @dot-size;
+            margin: 0 @dot-spacing;
+            border-radius: 50%;
+            background-color: @dot-color;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+
+            &.active {
+                background-color: @dot-active-color;
+            }
+        }
+    }
+}

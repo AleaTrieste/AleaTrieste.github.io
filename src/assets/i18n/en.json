@@ -1,0 +1,255 @@
+{
+    "SLOGAN": "Promoters of board games and role-playing games since 1995",
+    "ADDRESS": "Via San Francesco 4/1, Trieste - First floor - Staircase B",
+    "WHEN": "EVENTS",
+    "WHO": "ABOUT US",
+    "WHERE": "LOCATION",
+    "EXPAND_TEXT": "Click for details",
+    "EVENTS": [
+        {
+            "DATE": "2024-11-15T17:30:00Z",
+            "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
+            "TITLE": "International Games Month 2024",
+            "DESCRIPTION": "15 November 17.30 - 20.30\nStelio Mattioni Library",
+            "EXPANSION": [
+                {
+                    "TEXT": "15 November 17.30 - 20.30\nStelio Mattioni Library",
+                    "IMAGE": "./assets/img/events/InternationalGamesMonth.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-01-08T19:00:00Z",
+            "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
+            "TITLE": "GameNights January 2025",
+            "DESCRIPTION": "8 January 19.00 - 22.00\nStudy room, ground floor, building H3",
+            "EXPANSION": [
+                {
+                    "TEXT": "8 January 19.00 - 22.00\nStudy room, ground floor, building H3",
+                    "IMAGE": "./assets/img/events/GameNights_2025-01.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-01-26T18:30:00Z",
+            "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
+            "TITLE": "GiocaMuggia 2025",
+            "DESCRIPTION": "Sunday 26 January 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+            "EXPANSION": [
+                {
+                    "TEXT": "Sunday 26 January 18.30 - 20.00\nCalle Verdi 6b a Muggia",
+                    "IMAGE": "./assets/img/events/GiocaMuggia.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-02-19T19:00:00Z",
+            "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
+            "TITLE": "GameNights February 2025",
+            "DESCRIPTION": "19 February 19.00 - 22.00\nStudy room, ground floor, building H3",
+            "EXPANSION": [
+                {
+                    "TEXT": "19 February 19.00 - 22.00\nStudy room, ground floor, building H3",
+                    "IMAGE": "./assets/img/events/GameNights_2025-02.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-02-28T18:30:00Z",
+            "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+            "TITLE": "Torneo di Catan February 2025",
+            "DESCRIPTION": "Sunday 28 February 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
+            "EXPANSION": [
+                {
+                    "TEXT": "Sunday 28 February 18.30 - 20.00\n\"In Bocca al Gioco\" - V.le Venti Settembre, 41",
+                    "IMAGE": "./assets/img/events/TorneoCatan2025-02-08.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-04-09T19:00:00Z",
+            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+            "TITLE": "Avventure da Tavolo March / April 2025\n1a parte",
+            "DESCRIPTION": "",
+            "EXPANSION": [
+                {
+                    "TEXT": "21 March 17:30-20:30 board games\n9 April 17:00-19:00 chess workshop\n\"Mattioni Library\" - Borgo San Sergio",
+                    "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        },
+        {
+            "DATE": "2025-04-11T20:30:00Z",
+            "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+            "TITLE": "Avventure da Tavolo March / April 2025\n2a parte",
+            "DESCRIPTION": "",
+            "EXPANSION": [
+                {
+                    "TEXT": "8 April 17:00-18:30 chess workshop\n10 April 17:00-18:30 chess workshop\n11 April 17:30-20:30 board games\n\"Gambini Library\" - San Giacomo",
+                    "IMAGE": "./assets/img/events/AvventureDaTavolo_2025.jpg",
+                    "ALT_TEXT": "Image of the event poster"
+                }
+            ]
+        }
+    ],
+    "DESCRIPTION": [
+        {
+            "TITLE": "WHO WE ARE",
+            "INTRO": "We are “ALEA”, a gaming association from Trieste founded in 1995.\nThe Social Promotion Association is a cultural association that promotes gaming in all its forms, enhancing it as a tool for socialization and social integration.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/description_who.jpg",
+            "ALT_TEXT": "An image depicting various board games from the association.",
+            "EXPANSION": [
+                {
+                    "TEXT": "We are “ALEA”, a gaming association from Trieste founded in 1995.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "The Social Promotion Association is a cultural association that promotes gaming in all its forms, enhancing it as a tool for socialization and social integration.",
+                    "IMAGE": "./assets/img/who_expansion-0.jpg",
+                    "ALT_TEXT": "Image depicting some merchandise with the Alea logo."
+                },
+                {
+                    "TEXT": "It is a free, apolitical association that pursues its social purpose with voluntary and unpaid commitment. It promotes the growth of gaming through participation and the organization of events, exhibitions, tournaments, and daily gaming activities.\nWe reject gambling.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "ALEA is primarily composed of adult members with a passion for various types of board games, role-playing games, and 3D wargames.",
+                    "IMAGE": "./assets/img/who_expansion-1.jpg",
+                    "ALT_TEXT": "Photo of some members of the association continuing a meeting at the bar"
+                },
+                {
+                    "TEXT": "The association has a venue with four tables and a continuously expanding game library. Members freely organize game nights using both the games available in the library and those they own. The activity is lively and daily, mainly concentrated in the evening hours on weekdays and especially on weekends, including mornings and afternoons. Members can organize daily activities through a well-organized Telegram chat and a booking calendar on Google Calendar.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                }
+            ]
+        },
+        {
+            "TITLE": "THE OPEN EVENTS",
+            "INTRO": "For several years, Alea has been committed to periodically opening its venue to the public, organizing open nights for those interested and curious, offering everyone the opportunity to discover the vast world of games and the association's activities.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/description_events.jpg",
+            "ALT_TEXT": "Image of a poster of the association at the entrance of one of its events.",
+            "EXPANSION": [
+                {
+                    "TEXT": "For several years, Alea has been dedicated to periodically opening its venue to the public, organizing open nights for those interested and curious, offering everyone the opportunity to discover the vast world of games and the association's activities.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "The open events have been mainly advertised through social media or word of mouth. Anyone can participate to get to know us or to spend an enjoyable evening trying out a game in good company.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Many of us became members after attending one of these events: the warm welcome from the members and the fun atmosphere are always so engaging that they often lead people to want to join this diverse group of passionate gamers.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Themed nights are also a regular feature: social moments where members and enthusiasts engage in games based on a specific theme. For example, the traditional horror night \"Aleaween\" on October 31st, \"Space Nights\" among stars and planets, \"Western Nights\" with sheriffs and outlaws, and \"Classical Nights\" in the ancient world... Not to mention that from time to time, we organize off-site events open to members and families, such as gatherings in the Trieste Karst or paintball battles, always enlivened by moments of gaming that strengthen friendships among members and provide enjoyable days spent together.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Since 2024, the \"Chi c'è c'è\" (Who's Here, Is Here) Saturday night has been established: without the need for prior organization, any member can join the evening dedicated to improvisation by showing up promptly by 8:30 PM. Every Saturday is an opportunity to get to know each other, play games from the library or those brought by other participants, or perhaps to introduce that dusty game that has been sitting abandoned for a while and that we'd like to try. \"Chi c'è c'è\" is the unpredictable and surprising evening that brings the association to life every Saturday. It's not uncommon for supporters to join in, so while it's not officially open to non-members, know that it’s likely you'll find us there on Saturday, and you might even be able to join us.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                }
+            ]
+        },
+        {
+            "TITLE": "EXTERNAL ACTIVITIES",
+            "INTRO": "In the early 2000s, Alea was one of the founding associations of \"Trieste d20gioco\" and participated in the success of the \"Fumetti per gioco\" events for several years.\nAlea is a co-founder of Federludo, the Italian federation of gaming associations.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/description_activities.jpg",
+            "ALT_TEXT": "Image of the entrance to an association event during the 2024 Science-Fiction Festival.",
+            "EXPANSION": [
+                {
+                    "TEXT": "In the early 2000s, Alea was one of the founding associations of \"Trieste d20gioco\" and participated in the success of the \"Fumetti per gioco\" events for several years.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Alea is a co-founder of Federludo, the Italian federation of gaming associations.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Since 2022, we have been collaborating with the Municipality of Trieste by managing the \"Avventure da tavolo\" project, which promotes board games in the city's libraries. We animate the afternoons dedicated to gaming activities in the libraries as game experts, welcoming families, children from after-school programs, and curious individuals of all ages. We offer them the opportunity to try the library's games or those from our association.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "In recent years, we have organized the International Games Month in November, in addition to our collaboration with the municipal libraries. We have also organized and promoted other activities, such as those at SISSA, or in collaboration with the Trieste Astronomical Observatory, as well as conferences focused on the theme of gaming.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "In 2024, we collaborated with the Lybra Cooperativa Sociale Onlus to engage young users of the cooperative with games, promoting positive relational dynamics, stimulating interest in recreational activities, and encouraging healthy pastimes.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "In the same year, we began organizing, in collaboration with the venue on Viale XX Settembre, \"In bocca al gioco\", open tournaments for the public featuring \"The Settlers of Catan\" and \"Ticket to Ride - Europe\", valid for national qualifications.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Our association has frequently tested game prototypes, becoming beta testers for Giochix Editions and White Cocal Press, a Trieste-based publisher of successful games such as Friko Bestiale and Tachite al Tram.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                },
+                {
+                    "TEXT": "Since April 2023, we have had our new beautiful headquarters at Via San Francesco 4/1, Trieste, on the first floor - Staircase B.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                }
+            ]
+        }
+    ],
+    "GAMES": [
+        {
+            "TITLE": "Board Games",
+            "IMG_SRC": "./assets/img/games/gdt.jpg",
+            "EXPANSION": [
+                {
+                    "TEXT": "Many of our members are passionate about board games of all kinds: from German-style games to American ones, including abstract games, dungeon crawlers, and legacy games... a thousand and more games are set up and played every day, there’s something for everyone, an entire world to discover. And if we have twenty minutes left while waiting for a latecomer or to wrap up the evening, we're always ready to start a simple, fun, or mind-bending filler game.",
+                    "IMAGE": "./assets/img/games/gdt-expansion-0.jpg",
+                    "ALT_TEXT": "Image depicting a tabletop game of Storm Raiders being played."
+                }
+            ]
+        },
+        {
+            "TITLE": "Tabletop Role-Playing Games",
+            "IMG_SRC": "./assets/img/games/gdr.jpg",
+            "EXPANSION": [
+                {
+                    "TEXT": "Role-playing games are immersive experiences that allow players to live out fantastic stories, take on the roles of unique characters, and decide together with other players the fate of imaginary worlds.\nSeveral of our associate game masters lead the evenings at our association: some prefer to create classic fantasy adventures, with D&D or in Middle-Earth, while others venture into steampunk, horror, or science fiction settings—the imagination knows no bounds.",
+                    "IMAGE": "./assets/img/games/gdr-expansion-0.jpg",
+                    "ALT_TEXT": "Image of a session of the Lovecraftesque role-playing game."
+                }
+            ]
+        },
+        {
+            "TITLE": "Wargames",
+            "IMG_SRC": "./assets/img/games/wargames.jpg",
+            "EXPANSION": [
+                {
+                    "TEXT": "Three-dimensional games with miniatures combine strategy, tactical skills, and modeling, allowing players to deploy armies in 3D scenarios where every move can change the outcome of the battle.\nMany of our members are dedicated to this activity, facing off in both historical and fantasy settings, creating beautiful miniatures with passion and great skill, both to display and use. The association also offers courses in miniature painting and scenario creation.",
+                    "IMAGE": "./assets/img/games/wargames-expansion-0.jpg",
+                    "ALT_TEXT": "Image depicting a tabletop game of Bloodstones being played."
+                }
+            ]
+        }
+    ]
+}

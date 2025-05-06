@@ -1,0 +1,27 @@
+<div id="slogan-container">
+    <p>{{translate('SLOGAN')}}</p>
+</div>
+<div class="slider-container">
+    <button class="arrow-btn left" (click)="prevSlide()">&#8249;</button>
+
+    <div class="cards-wrapper" [style.transform]="translateX" (touchstart)="onTouchStart($event)"
+        (touchmove)="onTouchMove($event)" (touchend)="onTouchEnd($event)">
+        <ng-container *ngFor="let card of getEvents(); let i = index">
+            <div class="card" [ngClass]="getCardClass(i)" [style.backgroundImage]="'url(' + card.IMAGE + ')'"
+                (click)="interact(i, card)">
+                <div class="card-content">
+                    <h2 class="title">{{ card.TITLE }}</h2>
+                    <p class="description">{{ card.DESCRIPTION }}</p>
+                    <p class="expand-text">{{ getExpandText() }}</p>
+                </div>
+            </div>
+        </ng-container>
+    </div>
+
+    <button class="arrow-btn right" (click)="nextSlide()">&#8250;</button>
+</div>
+
+<div class="dots">
+    <span *ngFor="let card of getEvents(); let i = index" class="dot" [class.active]="i === currentIndex"
+        (click)="goToSlide(i)"></span>
+</div>

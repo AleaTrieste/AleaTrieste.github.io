@@ -1,0 +1,13 @@
+<div class="container left"></div>
+<div id=logo-container>
+    <app-picture-frame [imgPath]="logoPath" id="logo-img"></app-picture-frame>
+</div>
+<div class="container center" id="slogan-container">
+    <app-link-text [text]="translate('WHEN')" [id]="'events'"></app-link-text>
+    <app-link-text [text]="translate('WHO')" [id]="'description'"></app-link-text>
+    <app-link-text [text]="translate('WHERE')" [id]="'map'"></app-link-text>
+</div>
+<div class="container right">
+    <app-link-icon [IMG_SRC]="userPath" style="opacity: 0;"></app-link-icon>
+</div>
+<ng-container #popup></ng-container>

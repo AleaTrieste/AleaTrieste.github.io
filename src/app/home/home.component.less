@@ -1,0 +1,18 @@
+:host {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12vmin;
+    background-color: var(--white-hex);
+    margin-top: 13vh;
+
+    app-parallax-breaker {
+        height: 32vh;
+        width: 100%;
+
+        @media (orientation: portrait) {
+            height: 16vh;
+        }
+    }
+}

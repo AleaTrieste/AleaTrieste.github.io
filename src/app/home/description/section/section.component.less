@@ -1,0 +1,61 @@
+.section-container {
+    position: relative;
+    display: flex;
+    gap: 4vmin;
+    align-items: center;
+    flex-direction: row;
+    cursor: pointer;
+    border-radius: var(--round-em);
+    padding: 1vh;
+
+    &:hover {
+        background-color: var(--red-hex);
+
+        p {
+            color: var(--white-hex);
+        }
+    }
+
+    &.reverse {
+        @media (orientation: landscape) {
+            flex-direction: row-reverse;
+        }
+    }
+
+    @media (orientation: portrait) {
+        flex-direction: column;
+    }
+
+    .img-container {
+        overflow: hidden;
+        border-radius: var(--round-em);
+
+        img {
+            width: 20vmax;
+            border-radius: var(--round-em);
+            transition: transform 0.3s ease-in-out;
+            object-fit: cover;
+
+            @media (orientation: portrait) {
+                max-width: 90vw;
+            }
+
+            &:hover {
+                transform: scale(1.1);
+            }
+
+            &:not(:hover) {
+                transition: transform 0.5s ease-out;
+            }
+        }
+    }
+
+    p {
+        max-width: 40vw;
+        white-space: pre-line;
+
+        @media (orientation: portrait) {
+            max-width: 80vw;
+        }
+    }
+}

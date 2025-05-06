@@ -1,0 +1,13 @@
+<div id="section-container">
+    <ng-container *ngFor="let section of getDescription(); let i = index">
+        <app-section (toggleExpandEvent)="togglePopup(section.TITLE, section.EXPANSION)" [section]="section"
+            [type]="i % 2 === 1 ? 'reverse' : ''"> </app-section>
+    </ng-container>
+</div>
+
+<div id="game-container">
+    <ng-container *ngFor="let section of getGames(); let i = index">
+        <app-game-section (toggleExpandEvent)="togglePopup(section.TITLE, section.EXPANSION)" [imgSrc]="section.IMG_SRC"
+            [altText]="section.TITLE"></app-game-section>
+    </ng-container>
+</div>

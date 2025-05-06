@@ -1,0 +1,12 @@
+<div class="section-container" [ngClass]="type" [title]="section.ALT_TEXT">
+    <div class="img-container">
+        <img [src]="section.IMAGE" [alt]="section.ALT_TEXT">
+    </div>
+    <p>
+        <b class="title">
+            {{section.TITLE}}
+        </b>
+        <br>
+        {{section.INTRO}}
+    </p>
+</div>

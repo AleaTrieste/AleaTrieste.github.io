@@ -1,0 +1,78 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Falena';
+    font-style: normal;
+    color: var(--black-hex);
+    -webkit-tap-highlight-color: transparent;
+
+    @media (orientation: portrait) {
+        font-size: medium;
+    }
+
+    @media (orientation: landscape) {
+        font-size: xx-large;
+    }
+}
+
+.title {
+    @media (orientation: portrait) {
+        font-size: x-large;
+    }
+
+    @media (orientation: landscape) {
+        font-size: larger;
+    }
+}
+
+body {
+    background-color: var(--white-hex);
+}
+
+@font-face {
+    font-family: 'Falena';
+    src: url(assets/font/Falena/Falena-RegularItalic.ttf) format("truetype");
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Falena';
+    src: url(assets/font/Falena/Falena-Regular.ttf) format("truetype");
+    font-style: normal;
+}
+
+:root {
+    --white-hex: #E7EBE4;
+    --white-filter: brightness(0) saturate(100%) invert(95%) sepia(9%) saturate(101%) hue-rotate(51deg) brightness(98%) contrast(93%);
+
+    --green-hex: #8FB089;
+    --green-filter: brightness(0) saturate(100%) invert(64%) sepia(30%) saturate(272%) hue-rotate(64deg) brightness(98%) contrast(95%);
+
+    --red-hex: #D31B25;
+    --red-filter: brightness(0) saturate(100%) invert(11%) sepia(97%) saturate(5494%) hue-rotate(352deg) brightness(91%) contrast(86%);
+
+    --gray-hex: #82787E;
+    --gray-filter: brightness(0) saturate(100%) invert(52%) sepia(8%) saturate(334%) hue-rotate(271deg) brightness(90%) contrast(83%);
+
+    --black-hex: #202B29;
+    --black-filter: brightness(0) saturate(100%) invert(15%) sepia(16%) saturate(560%) hue-rotate(119deg) brightness(90%) contrast(93%);
+
+    --round-em: 2vmin;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    height: 40px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--red-hex); /* Colore della scrollbar */
+    border-radius: var(--round-em); /* Bordo arrotondato */
+  }
+  
+::-webkit-scrollbar-track {
+    background:var(--white-hex); /* Colore della traccia */
+    margin: 100% 0;
+    background: transparent;
+}
