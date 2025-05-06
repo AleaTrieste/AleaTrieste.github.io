@@ -39,5 +39,3 @@ jobs:
         branch: gh-pages
         folder: dist/sito-web-alea 
         clean: true
-        repository-name: ${{ github.repository }} # <--- Aggiungi questa riga (opzionale ma utile)
-        force: true
