@@ -34,7 +34,6 @@ export class EventsComponent {
       if (this.currentIndex == undefined) {
         this.currentIndex = events.length - 1;
       }
-      console.log(this.currentIndex)
     }
     return events;
   }
