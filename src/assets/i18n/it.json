@@ -96,6 +96,32 @@
                     "ALT_TEXT": "Immagine della locandina dell'evento"
                 }
             ]
+        },
+        {
+          "DATE": "2025-06-28T15:00:00Z",
+          "IMAGE": "./assets/img/events/BorgoCosplay2025.png",
+          "TITLE": "Borgo Cosplay ritorna il 28 e 29 giugno 2025",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "Sabato 28 e domenica 29 giugno 2025 si riaprono i cancelli di BORGO COSPLAY, l’evento dedicato al mondo dei cospayer, del fumetto, dei giochi da tavolo e di ruolo, dei videogame e alla cultura nerd!\n\nPresso la Biblioteca Comunale Stelio Mattioni di Borgo San Sergio, due giorni di eventi che tra sfilate di cosplayer, workshop di fumetto, postazioni di videogame, sessioni di giochi da tavolo e di ruolo, talk, momenti di spettacolo e un mercatino dedicato a tutto quello che è pop, saprà offrivi un weekend davvero imperdibile!",
+              "IMAGE": "./assets/img/events/BorgoCosplay2025.png",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
+        {
+          "DATE": "2025-07-05T18:00:00Z",
+          "IMAGE": "./assets/img/events/AleaOpenLuglio2025.jpg",
+          "TITLE": "Serata Open in Alea - 5 luglio 2025",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "Tornano le serate open di Alea!\n\n Venite a trovarci in sede per conoscerci, provare liberamente i nostri giochi da tavolo e fare qualche partita insieme a noi!\n\n\uD83D\uDCC6 Sabato 5 luglio 2025\n\uD83D\uDD56 Dalle 18\n\uD83D\uDCCD Via San Francesco 4/1\n\uD83C\uDF38 Ingresso libero su iscrizione \n\nEvento aperto ai maggiori di 16 anni. Se minorenni, è richiesta la presenza di un adulto. \n\n\n iscriviti su \nhttps://tinyurl.com/openalea",
+              "IMAGE": "./assets/img/events/AleaOpenLuglio2025.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
