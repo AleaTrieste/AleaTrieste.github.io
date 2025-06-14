@@ -96,7 +96,33 @@
                     "ALT_TEXT": "Image of the event poster"
                 }
             ]
-        }
+        },
+      {
+        "DATE": "2025-06-28T15:00:00Z",
+        "IMAGE": "./assets/img/events/BorgoCosplay2025.png",
+        "TITLE": " Borgo Cosplay returns on June 28th and 29th, 2025",
+        "DESCRIPTION": "",
+        "EXPANSION": [
+          {
+            "TEXT": "On Saturday, June 28th and Sunday, June 29th, 2025, the gates of BORGO COSPLAY will reopen!\nAn event dedicated to the world of cosplayers, comics, board games and role-playing games, video games, and nerd culture!\n\nHosted at the Stelio Mattioni Municipal Library in Borgo San Sergio, two full days of activities await you: cosplay parades, comic workshops, video game stations, board and role-playing game sessions, talks, shows, and a market entirely focused on all things pop! A truly unmissable weekend!",
+            "IMAGE": "./assets/img/events/BorgoCosplay2025.png",
+            "ALT_TEXT": "Image of the event poster"
+          }
+        ]
+      },
+      {
+        "DATE": "2025-07-05T18:00:00Z",
+        "IMAGE": "./assets/img/events/AleaOpenLuglio2025.jpg",
+        "TITLE": " Open Night at Alea – July 5th, 2025",
+        "DESCRIPTION": "",
+        "EXPANSION": [
+          {
+            "TEXT": "Alea’s open nights are back!\n\nCome visit our venue to meet us, freely try out our board games, and play a few rounds with us!\n\n\uD83D\uDCC6 Saturday, July 5th, 2025\n\uD83D\uDD56 Starting from 6 PM\n\uD83D\uDCCD Via San Francesco 4/1\n\uD83C\uDF38 Free entry with registration\n\nThe event is open to participants aged 16 and over. If underage, an adult must accompany you.\n\nRegister at:\nhttps://tinyurl.com/openalea",
+            "IMAGE": "./assets/img/events/AleaOpenLuglio2025.jpg",
+            "ALT_TEXT": "Image of the event poster"
+          }
+        ]
+      }
     ],
     "DESCRIPTION": [
         {
