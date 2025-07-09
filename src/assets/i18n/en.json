@@ -122,7 +122,20 @@
             "ALT_TEXT": "Image of the event poster"
           }
         ]
-      }
+      },
+        {
+          "DATE": "2025-07-20T16:00:00Z",
+          "IMAGE": "./assets/img/events/dadi.jpg",
+          "TITLE": "Gioca con noi e… stai fresco!",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+                "TEXT": "A gaming afternoon in the shade under the trees of Trebiciano! Volunteers from Alea APS, La Costola dei Barbari APS and Queer Legacy ODV will let you play many beautiful board games and role playing games. Both well known and niche games will be available to try, and they will be explained to you in a welcoming, friendly, safe space outdoors. The event is open to newcomers and experts of all ages. Take this opportunity to explore the world of games, to try different things or simply to get to know new people. Our dice and meeples are ready to meet you!",
+                "IMAGE": "./assets/img/events/dadi.jpg",
+                "ALT_TEXT": "Image of the event poster"
+            }
+          ]
+        }
     ],
     "DESCRIPTION": [
         {
