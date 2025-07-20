@@ -123,6 +123,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2025-07-20T16:00:00Z",
+          "IMAGE": "./assets/img/events/dadi.jpg",
+          "TITLE": "Gioca con noi e… stai fresco!",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "Un pomeriggio all’insegna del gioco al riparo degli alberi di Trebiciano! I volontari e le volontarie di Alea APS, La Costola dei Barbari APS e Queer Legacy ODV vi faranno sperimentare i giochi da tavolo e giochi di ruolo più celebri al mondo accanto a proposte meno conosciute di entrambi i generi, sapientemente spiegate permettendovi di immergervi velocemente nelle varie attività in uno spazio amichevole, accogliente e sicuro. L’evento è aperto a tutte le persone: dalle principianti alle esperte e di qualsiasi età. Sarà un’opportunità per avvicinarsi al mondo del gioco o per scoprire sfaccettature differenti di un mondo che conoscete già. Troverete pronti dadi e meeple, siate pronti a scatenare la fantasia e la voglia di stare insieme!\nCi vediamo al Campo sportivo di Trebiciano\nil 20 luglio dalle 16:00 alle 19:00",
+              "IMAGE": "./assets/img/events/dadi.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
