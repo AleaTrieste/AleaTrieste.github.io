@@ -1,0 +1,133 @@
+.modal-backdrop {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  background-color: rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(5px);   // blur sfondo dietro
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.modal {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  width: 90%;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.15);
+  position: relative;
+  animation: slideUp 0.3s ease-out;
+  color: #222;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  color: #666;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-weight: 700;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 1.5rem;
+}
+
+button.action-btn {
+  padding: 0.5rem 1.25rem;
+  background-color: #007bff;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #0056b3;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    background-color: rgba(0, 0, 0, 0);
+  }
+  to {
+    background-color: rgba(0, 0, 0, 0.35);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.games-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 1rem;
+  max-height: 60vh;
+  overflow-y: auto;
+  margin-top: 1rem;
+}
+
+.game-card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+    height: 150px;
+    object-fit: cover;
+  }
+
+  h3 {
+    margin: 0.5rem 0;
+    font-size: 1.1rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    margin: 0.2rem 0;
+    color: #333;
+  }
+
+  .description {
+    font-size: 0.8rem;
+    max-height: 4.5rem; /* circa 3 righe */
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}

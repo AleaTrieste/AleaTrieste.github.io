@@ -1,4 +1,4 @@
-import { AfterViewInit, Component, ViewChild, ViewContainerRef } from '@angular/core';
+import { AfterViewInit, Component, ViewChild, ViewContainerRef, EventEmitter, Output } from '@angular/core';
 import { LinkIconComponent } from '../link-icon/link-icon.component';
 import { LOGO_PATH, USER_PATH } from '../../../variables/img-paths';
 import { PictureFrameComponent } from '../picture-frame/picture-frame.component';
@@ -27,5 +27,12 @@ export class NavBarComponent implements AfterViewInit {
 
   translate(key: string): string {
     return this.translationService.translate(key);
+  }
+
+  @Output() openModal = new EventEmitter<void>();
+
+  handleClick(event: MouseEvent) {
+    event.preventDefault();
+    this.openModal.emit();
   }
 }

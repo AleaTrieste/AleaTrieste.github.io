@@ -4,6 +4,7 @@
     "WHEN": "EVENTS",
     "WHO": "ABOUT US",
     "WHERE": "LOCATION",
+    "BG": "GAMES",
     "EXPAND_TEXT": "Click for details",
     "EVENTS": [
         {

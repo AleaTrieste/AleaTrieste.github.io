@@ -1,2 +1,3 @@
-<app-nav-bar></app-nav-bar>
+<app-nav-bar (openModal)="onOpenModal()" ></app-nav-bar>
 <app-main></app-main>
+<custom-modal *ngIf="showModal" (close)="onCloseModal()"></custom-modal>

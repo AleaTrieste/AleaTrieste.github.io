@@ -1,0 +1,16 @@
+<div class="modal-backdrop" (click)="closeModal()">
+  <div class="modal" (click)="$event.stopPropagation()">
+    <button class="close-btn" aria-label="Chiudi modale" (click)="closeModal()">×</button>
+    <h3>Lista Giochi</h3>
+
+    <div class="games-grid">
+      <div class="game-card" *ngFor="let game of games">
+        <img [src]="game.thumbnail" [alt]="game.name" />
+        <h3>{{ game.name }}</h3>
+        <p><strong>Players:</strong> {{ game.playersCount }}</p>
+        <p><strong>Play time:</strong> {{ game.playTime }} min</p>
+        <p class="description" [innerHTML]="game.description"></p>
+      </div>
+    </div>
+  </div>
+</div>

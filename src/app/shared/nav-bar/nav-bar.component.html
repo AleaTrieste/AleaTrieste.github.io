@@ -6,6 +6,7 @@
     <app-link-text [text]="translate('WHEN')" [id]="'events'"></app-link-text>
     <app-link-text [text]="translate('WHO')" [id]="'description'"></app-link-text>
     <app-link-text [text]="translate('WHERE')" [id]="'map'"></app-link-text>
+    <app-link-text [text]="translate('BG')" (click)="handleClick($event)"></app-link-text>
 </div>
 <div class="container right">
     <app-link-icon [IMG_SRC]="userPath" style="opacity: 0;"></app-link-icon>
