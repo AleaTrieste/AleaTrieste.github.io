@@ -136,6 +136,19 @@
                 "ALT_TEXT": "Image of the event poster"
             }
           ]
+        },
+        {
+          "DATE": "2025-08-15T16:00:00Z",
+          "IMAGE": "./assets/img/events/uniH3.jpg",
+          "TITLE": "Game Nights: giochi e benessere all’Università di Trieste",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "From December 2024 to July 2025, ALEA and La Costola dei Barbari have animated the silent study rooms of the University of Trieste with board games and role playing games. The event took place on the ground floor of Building H3, with 16 Game Nights and more than 200 different participants, about 80 of them coming back more than once. Our Game Nights mostly targeted students, but were also open to university students and personnel. The attendance was between 25 and 42 people each night. The event was organised by the university within the Pro-Bene-Comune project, and it had two main objectives: promoting psychological and social well-being within the university, and gather data for a research on game-related psychology. We created a relaxed, fun and inclusive environment. Some enthusiastic participants spread the word to their friends, others just came for one night. Some came with their group, some came by themselves, always finding a table to play at. Some participants did not speak Italian, which allowed for the creation of international, English-speaking tables. This experience fully embodied what ALEA wants to promote: games as a means to bring people together and create a sense of community. We want to thank the many volunteers and all participants that contributed to this successful initiative.",
+              "IMAGE": "./assets/img/events/uniH3.jpg",
+              "ALT_TEXT": "Image of the event poster"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [

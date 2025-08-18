@@ -136,6 +136,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2025-08-15T16:00:00Z",
+          "IMAGE": "./assets/img/events/uniH3.jpg",
+          "TITLE": "Game Nights: giochi e benessere all’Università di Trieste",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "Da dicembre 2024 a luglio 2025, ALEA e La Costola dei Barbari hanno sfidato il silenzio delle aule studio portando giochi da tavolo e di ruolo all’Università degli Studi di Trieste. L’evento, che ha avuto luogo nella sala studio al piano terra dell’Edificio H3, in 16 serate ha coinvolto oltre 200 partecipanti diversi, di cui circa ottanta sono tornati più di una volta. Le Game Nights, rivolte principalmente a studenti e studentesse ma aperte anche a docenti e personale dell’Ateneo, hanno registrato una partecipazione variabile tra le 25 e le 42 persone per serata. L’attività, organizzata dall’Università nell’ambito del progetto Pro-Bene-Comune, aveva un duplice obiettivo: favorire il benessere psicologico e la socialità in ambito universitario e, al tempo stesso, raccogliere dati per una ricerca sulla psicologia del gioco. Le serate si sono svolte in un clima disteso, divertente e inclusivo. Alcuni partecipanti, ormai affezionati, hanno diffuso l’iniziativa con il passaparola; altri hanno preso parte a una singola serata. C’è chi arrivava in gruppo e chi da solo, trovando comunque sempre un tavolo a cui aggregarsi. Non sono mancati partecipanti che non parlavano italiano, accolti in tavoli gestiti interamente in inglese. Questa esperienza ha incarnato pienamente lo spirito di ALEA: promuovere il gioco come strumento di aggregazione sociale e di animazione di comunità. Un sentito ringraziamento va ai numerosi volontari e volontarie, e a tutti e tutte le partecipanti, per aver contribuito alla riuscita dell’iniziativa.",
+              "IMAGE": "./assets/img/events/uniH3.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
