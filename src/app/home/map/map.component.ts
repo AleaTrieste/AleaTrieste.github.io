@@ -30,7 +30,7 @@ export class MapComponent extends Translatable {
     if (isPlatformBrowser(this.platformId)) {
       import('leaflet')
         .then((leaflet) => {
-          const map = leaflet.map('leaflet-map').setView([45.65252501572433, 13.777814146974686], 23);
+          const map = leaflet.map('leaflet-map').setView([45.653817, 13.775349], 23);
           leaflet.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
           const customIcon = leaflet.icon({
