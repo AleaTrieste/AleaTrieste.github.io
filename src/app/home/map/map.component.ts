@@ -40,8 +40,8 @@ export class MapComponent extends Translatable {
             popupAnchor: [0, -64]
           });
 
-          const marker = leaflet.marker([45.65252501572433, 13.777814146974686], { icon: customIcon }).addTo(map);
-          marker.bindPopup("Via San Francesco 4/1");
+          const marker = leaflet.marker([45.653817, 13.775349], { icon: customIcon }).addTo(map);
+          marker.bindPopup("Via del Lavatoio 5");
         });
     }
   }
