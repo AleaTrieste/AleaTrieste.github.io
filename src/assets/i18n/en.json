@@ -180,9 +180,23 @@
                     "ALT_TEXT": "Photo of some members of the association continuing a meeting at the bar"
                 },
                 {
-                    "TEXT": "The association has a venue with four tables and a continuously expanding game library. Members freely organize game nights using both the games available in the library and those they own. The activity is lively and daily, mainly concentrated in the evening hours on weekdays and especially on weekends, including mornings and afternoons. Members can organize daily activities through a well-organized Telegram chat and a booking calendar on Google Calendar.",
+                    "TEXT": "The association has a venue with seven tables and a continuously expanding game library. Members freely organize game nights using both the games available in the library and those they own. The activity is lively and daily, mainly concentrated in the evening hours on weekdays and especially on weekends, including mornings and afternoons. Members can organize daily activities through a well-organized Telegram chat and a booking calendar on Google Calendar.",
                     "IMAGE": "",
                     "ALT_TEXT": ""
+                }
+            ]
+        },
+        {
+            "TITLE": "HOW TO FIND US",
+            "INTRO": "If you’d like to meet us, send an email to info@aleatrieste.it. Together we’ll find the best time for you to visit our venue—and while you’re here, to play some games too.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/Lavatoio.png",
+            "ALT_TEXT": "Via del Lavatoio 5",
+            "EXPANSION": [
+                {
+                "TEXT": "Come to Via del Lavatoio 5, go up to the third floor, and let’s get to know each other. Seven tables, many members, and a ton of games ready for us to have fun with.",
+                "IMAGE": "",
+                "ALT_TEXT": ""
                 }
             ]
         },
