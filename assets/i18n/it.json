@@ -180,7 +180,21 @@
                     "ALT_TEXT": "Foto di alcuni membri dell'associazione che continuano una riunione al bar"
                 },
                 {
-                    "TEXT": "L'associazione dispone di una sede con quattro tavoli e una ludoteca in continuo ampliamento, i soci organizzano liberamente serate gioco utilizzando sia i giochi disponibili in ludoteca che i giochi di cui sono proprietari. L'attività è vivace e quotidiana, concentrata principalmente nelle ore serali dei giorni feriali e soprattutto nei fine settimana, anche mattina e pomeriggio. I soci possono organizzare le attività quotidiane disponendo di un'organizzatissima chat su telegram e di un calendario di prenotazione su Google Calendar.",
+                    "TEXT": "L'associazione dispone di una sede con sette tavoli e una ludoteca in continuo ampliamento, i soci organizzano liberamente serate gioco utilizzando sia i giochi disponibili in ludoteca che i giochi di cui sono proprietari. L'attività è vivace e quotidiana, concentrata principalmente nelle ore serali dei giorni feriali e soprattutto nei fine settimana, anche mattina e pomeriggio. I soci possono organizzare le attività quotidiane disponendo di un'organizzatissima chat su telegram e di un calendario di prenotazione su Google Calendar.",
+                    "IMAGE": "",
+                    "ALT_TEXT": ""
+                }
+            ]
+        },
+        {
+            "TITLE": "COME TROVARCI",
+            "INTRO": "Se vuoi conoscerci, scrivi una mail a info@aleatrieste.it. Troveremo assieme il momento migliore per farti visitare la sede e già che ci siamo per giocare.",
+            "TEXT": "",
+            "IMAGE": "./assets/img/Lavatoio.png",
+            "ALT_TEXT": "Via del Lavatoio 5",
+            "EXPANSION": [
+                {
+                    "TEXT": "Vieni in via del Lavatoio 5, sali al terzo piano e conosciamoci. Sette tavoli, tanti soci e un sacco di giochi a disposizione per divertirci.",
                     "IMAGE": "",
                     "ALT_TEXT": ""
                 }
