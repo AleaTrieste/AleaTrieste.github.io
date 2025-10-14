@@ -148,7 +148,20 @@
               "IMAGE": "./assets/img/events/uniH3.jpg",
               "ALT_TEXT": "Image of the event poster"
             }
+          ],
+        {
+          "DATE": "2025-11-01T09:00:00Z",
+          "IMAGE": "./assets/img/events/sf.jpg",
+          "TITLE": "Ludoteca galattica",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "A full day—Saturday, November 1st at Sala Xenia—entirely dedicated to board games, role-playing games, and sci-fi themed gamebooks, organized by the associations Alea and Costola dei Barbari, together with the gaming bistro In Bocca Al Gioco.\nThe event will be structured in several time slots (10:00–13:00, 13:00–16:00, 16:00–19:00, 19:00–22:00), during which numerous activities will alternate, with some game tables available for advance booking and others dedicated to free play. With demonstrators and storytellers from the associations present, attendees will be able to try both board games and role-playing games, ranging from classic titles to new releases, all with a sci-fi theme.\nThroughout the day, writer and game designer Andrea Tupac Mollica will be present as a storyteller for the cyberpunk role-playing game Hong Kong Hustle, along with Lorenzo Board Game Physicist Gentile, a passionate science and board game communicator. There will also be presentations of new titles by various publishers, an open tournament for all participants, and tables dedicated to interactive storytelling, where attendees can collaboratively guide the unfolding of a story from a book.\nAmong other things, in our Galactic Game Library, you’ll be able to try:\nRole-playing games: Daggerheart (sci-fi version), CBR+PNK, Never Tell Me The Odds, Fabula Ultima, Green Oaks, Hong Kong Hustle, Dune: Adventures in the Imperium\nBoard games: Andromeda’s Edge, Mass Effect, Star Wars: Battle of Hoth, Dune Imperium, Expeditions, Terraforming Mars, KillTeam, SETI, Star Wars: Deckbuilding Game\nGamebooks: Progenie Oscura, Hong Kong Hustle, 1984, Scegli la Tua Avventura",
+              "IMAGE": "./assets/img/events/sf.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
           ]
+        }
         }
     ],
     "DESCRIPTION": [
