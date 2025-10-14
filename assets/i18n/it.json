@@ -149,6 +149,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2025-11-01T09:00:00Z",
+          "IMAGE": "./assets/img/events/sf.jpg",
+          "TITLE": "Ludoteca galattica",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "Una giornata – quella di sabato 1 novembre alla Sala Xenia – interamente dedicata ai giochi da tavolo, di ruolo e librogame a tema sci-fi, organizzata dalle associazioni Alea e Costola dei Barbari e dal bistrot ludico In Bocca Al Gioco.\n L’evento si articolerà su più fasce orarie (10-13, 13-16, 16-19, 19-22), all’interno delle quali si alterneranno numerose attività, con tavoli di gioco prenotabili in anticipo e altri dedicati al gioco libero. In presenza di dimostratori e narratori delle associazioni, si potranno provare giochi da tavolo e di ruolo, tra grandi classici e novità, tutti a tema fantascientifico.\n Nel corso della giornata sarà presente lo scrittore e game designer Andrea Tupac Mollica, che farà da narratore per il gioco di ruolo cyberpunk Hong Kong Hustle e Lorenzo Board Game Physicist Gentile, divulgatore appassionato di fisica e giochi da tavolo. Si terranno inoltre presentazioni di nuovi titoli da parte di diversi editori, un torneo aperto a tutti e tavoli dedicati alla narrativa interattiva, dove chi lo desidera potrà condividere l’avventura di un libro, guidando insieme agli altri lo svolgersi della storia.\nTra le altre cose, nella nostra Ludoteca Galattica, portrai provare:\n Giochi di ruolo: Daggerheart (versione scifi), CBR+PNK, Never Tell Me The Odds, Fabula Ultima, Green Oaks, Honk Kong Hustle, Dune Avventure nell’Imperium.\nGiochi da tavolo: Andromeda’s Edge, Mass Effect, Star Wars: Battaglia di Hoth, Dune Imperium, Expeditions, Terraforming Mars, KillTeam, SETI, Star Wars: Deckbuilding Game\nLibrogame: Progenie Oscura, Honk Kong Hustle, 1984, Scegli la Tua Avventura",
+              "IMAGE": "./assets/img/events/sf.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
