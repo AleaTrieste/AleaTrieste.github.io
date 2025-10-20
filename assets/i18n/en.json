@@ -148,7 +148,34 @@
               "IMAGE": "./assets/img/events/uniH3.jpg",
               "ALT_TEXT": "Image of the event poster"
             }
-          ],
+          ]
+        },
+        {
+          "DATE": "2025-10-26T15:00:00Z",
+          "IMAGE": "./assets/img/events/archeo.jpg",
+          "TITLE": "Sblocca la storia",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Sunday, October 26th\n🕖 From 3:00 PM to 8:00 PM\n📍 Piazza della Borsa, Trieste\n📝Free entry\n🏛️ As part of the event Un Mare di Archeologia, we will present role-playing games, board games, and 3D wargames!\nCome and join us for a dive into history!\n🎲 With our 3D Wargames, you can soar through the skies of the First World War with Wings of War or sail the seas aboard Napoleonic ships with Sails of Glory.\nIf you prefer role-playing games, Lex Arcana will transport you to ancient Rome.\nThere will also be plenty of board games such as the brand new Hispania, 7 Wonders, The King is Dead, Thurn und Taxis, Chariot’s Race, Cuzco, Similo History, Timeline, Sagrada, and many more!\n✨ With games from every setting, of various lengths, and for all ages, we’re sure it will be a journey through time you won’t forget!",
+              "IMAGE": "./assets/img/events/archeo.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
+        {
+          "DATE": "2025-10-31T19:45:00Z",
+          "IMAGE": "./assets/img/events/aleaween.png",
+          "TITLE": "Sblocca la storia",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Friday, October 31st, 2025\n🕖 7:45 PM\n📍 ALEA Headquarters, Via del Lavatoio 5, Trieste\n📝 Free evening open to everyone upon registration: https://tinyurl.com/openAlea\n🕷️ A Halloween night with spooky-themed board games!\n🧛🏻‍♂️ An evening open to everyone (even non-members!)—free and frightful!\n🧟‍♂️ Costumes are not mandatory but STRONGLY encouraged! Surprise us! And one last thing...\n👻 BOO\n\n\nTo participate, please fill out the form",
+              "IMAGE": "./assets/img/events/aleaween.png",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
         {
           "DATE": "2025-11-01T09:00:00Z",
           "IMAGE": "./assets/img/events/sf.jpg",
@@ -161,7 +188,6 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
-        }
         }
     ],
     "DESCRIPTION": [

@@ -151,6 +151,32 @@
           ]
         },
         {
+          "DATE": "2025-10-26T15:00:00Z",
+          "IMAGE": "./assets/img/events/archeo.jpg",
+          "TITLE": "Sblocca la storia",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Domenica 26 ottobre\n🕖 Dalle 15:00 alle 20:00\n📍 Piazza della Borsa, Trieste\n📝Gratis ad accesso libero\n🏛️ Nel contesto dell'evento Un Mare di Archeologia, presenteremo giochi di ruolo, giochi da tavolo e wargames 3D!\nVenite a trovarci per tuffarvi nella storia!\n🎲 Con i nostri Wargames 3D potrete librarvi nei cieli del primo conflitto mondiale con Wings of War o solcare i mari in velieri di epoca napoleonica con Sails of Glory.\nSe preferite i giochi di ruolo, in Lex Arcana vi ritroverete nell'antica Roma.\nCi saranno anche tantissimi giochi da tavolo come il nuovissimo Hispania, 7 Wonders, The King is dead, Thurn und Taxis, Chariot’s race, Cuzco, Similo storia, Timeline, Sagrada, e tanti altri!\n✨ Tra giochi di tutte le ambientazioni, di diverse durate e per tutte le età, siamo sicuri che sarà un viaggio nel tempo da non dimenticare!",
+              "IMAGE": "./assets/img/events/archeo.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
+        {
+          "DATE": "2025-10-31T19:45:00Z",
+          "IMAGE": "./assets/img/events/aleaween.png",
+          "TITLE": "Sblocca la storia",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Venerdì 31 ottobre 2025\n🕖 19:45\n📍 Sede ALEA, via del Lavatoio 5, Trieste\n📝 Serata gratuita aperta a tutti su iscrizione: https://tinyurl.com/openAlea\n🕷️ Un halloween con giochi da tavolo a tema!\n🧛🏻‍♂️ Una serata aperta a tutti (anche i non soci!) gratuita e spaventevole!\n🧟‍♂️ Costumi non obbligatori ma FORTEMENTE incoraggiati! Stupiteci! E un'ultima cosa...\n👻 BOO\n\n\nPer partecipare è necessario compilare il form",
+              "IMAGE": "./assets/img/events/aleaween.png",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
+        {
           "DATE": "2025-11-01T09:00:00Z",
           "IMAGE": "./assets/img/events/sf.jpg",
           "TITLE": "Ludoteca galattica",
