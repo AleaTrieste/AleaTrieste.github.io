@@ -164,6 +164,19 @@
           ]
         },
         {
+          "DATE": "2025-10-29T15:00:00Z",
+          "IMAGE": "./assets/img/events/tempo.jpg",
+          "TITLE": "Tempo in gioco",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "🎲 TEMPO IN GIOCO 🎲\nUn’attività pensata per offrire momenti di svago, stimolo e condivisione alle persone anziane. Giochi da tavolo, carte, scacchi e laboratori creativi diventano occasioni per divertirsi, tenere allenata la mente e trascorrere tempo di qualità insieme, creando nuove amicizie e valorizzando le proprie esperienze di vita. Un appuntamento mensile da vivere con piacere e da arricchire con tante nuove iniziative.\n1° appuntamento \n📆 Mercoledì 29 ottobre 2025\n🕒 15:00 - 19:00\n📍 Vita Lenta, via Pecenco 4, Trieste\n🃏 Un pomeriggio di giochi da tavolo aperto a persone di tutte le età!\n⚠️ Evento gratuito: non serve portare nulla, se non la voglia di stare in compagnia senza limiti di età ❤️\n✨️ Troverete tanti giochi da tavolo classici o potrete scoprirne di nuovi: ci saranno volontarie delle nostre associazioni per spiegarvi le regole!",
+              "IMAGE": "./assets/img/events/tempo.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
+        {
           "DATE": "2025-10-31T19:45:00Z",
           "IMAGE": "./assets/img/events/aleaween.png",
           "TITLE": "Sblocca la storia",

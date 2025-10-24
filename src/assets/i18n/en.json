@@ -164,6 +164,19 @@
           ]
         },
         {
+          "DATE": "2025-10-29T15:00:00Z",
+          "IMAGE": "./assets/img/events/tempo.jpg",
+          "TITLE": "Tempo in gioco",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "🎲 TEMPO IN GIOCO 🎲\nAn activity designed to offer moments of fun, stimulation, and connection for older adults. Board games, cards, chess, and creative workshops become opportunities to have fun, keep the mind active, and spend quality time together — creating new friendships and valuing one’s life experiences. A monthly event to enjoy and enrich with many new initiatives.\n1st meeting\n📆 Wednesday, October 29, 2025\n🕒 3:00 PM – 7:00 PM\n📍 Vita Lenta, via Pecenco 4, Trieste\n🃏 An afternoon of board games open to people of all ages!\n⚠️ Free event: you don’t need to bring anything — just the desire to enjoy good company, with no age limits ❤️\n✨️ You’ll find plenty of classic board games or discover new ones: volunteers from our associations will be there to explain the rules!",
+              "IMAGE": "./assets/img/events/tempo.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
+        {
           "DATE": "2025-10-31T19:45:00Z",
           "IMAGE": "./assets/img/events/aleaween.png",
           "TITLE": "Sblocca la storia",
