@@ -201,6 +201,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2025-12-28T19:45:00Z",
+          "IMAGE": "./assets/img/events/natalea.jpg",
+          "TITLE": "Natalea",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Domenica 28 dicembre 2025\n🕖 19:45\n📍 Sede ALEA, via del Lavatoio 5, Trieste\n📝 Serata gratuita aperta a tutti su iscrizione: https://tinyurl.com/openAlea\n🎁 Una serata di giochi da tavolo per passare le feste assieme!\n🎄 Una serata gratuits aperta a tutti (anche i non soci!)!\n\n\nPer partecipare è necessario compilare il form",
+              "IMAGE": "./assets/img/events/natalea.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
