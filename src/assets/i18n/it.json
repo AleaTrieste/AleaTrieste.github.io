@@ -214,6 +214,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2026-02-13T19:45:00Z",
+          "IMAGE": "./assets/img/events/ven13.jpg",
+          "TITLE": "Open Night Venerdì 13",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Venerdì 13 febbraio 2026\n🕗 Dalle 19:45\n📍 ALEA, via del Lavatoio 5, Trieste\n📝 Accesso libero su prenotazione: tinyurl.com/openalea\n🔮 Tenta la fortuna con giochi da tavolo e lanci di dadi.\n🎲 Serata aperta anche ai non soci!",
+              "IMAGE": "./assets/img/events/ven13.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
