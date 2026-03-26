@@ -227,6 +227,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2026-04-01T20:00:00Z",
+          "IMAGE": "./assets/img/events/unisba.jpg",
+          "TITLE": "GAME NIGHTS",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "Starting April 1st — and this is no joke — Game Nights at the University are back, together with our friends from La Costola dei Barbari!\nJoin us for 5 Wednesdays, from 8:00 PM to 11:00 PM, at the Punto SBA in Building A (left wig, ground floor).\nFree event and open to the entire UniTS community. Games will also be available in English!",
+              "IMAGE": "./assets/img/events/unisba.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
