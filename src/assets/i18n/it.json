@@ -240,6 +240,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2026-04-26T15:00:00Z",
+          "IMAGE": "./assets/img/events/open_gdr.webp",
+          "TITLE": "OPEN DAY GDR",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "🐇 Il coniglio pasquale ci ha portato delle uova, ma sembrano di... Drago!? Si schiuderanno il\n\n🗓️ 26 aprile 2026\n🕒 15.00\n📍 Via del Lavatoio 5 (sede ALEA)\n📝 Iscrizione via codice QR\n\n✨ Cinque tavoli, cinque giochi di ruolo differenti, tutti a tema fantasy. In ogni avventura troverete un certo respiro... Draconico.\n\nI sistemi presenti saranno:\n\n🗡️❤️ DAGGERHEART\n\nUn gioco di ruolo fantasy pensato per sessioni dinamiche e avventurose. Ha un sistema basato sul 2d12, privilegia la narrazione cinematografica e incoraggia il gioco cooperativo e l'improvvisazione al tavolo.\n\n🙏🏼☀️ DARK SOULS\n\nBasato sul classico D&D e ispirato al videogame, propone avventure dove la morte del giocatori non è la fine del viaggio, ma ne è parte integrante. Mostri e divinità cadute ci sbarreranno la strada, ma la forza di volontà è un po' di jolly cooperation determineranno fin dove arriverete.\n\n🐉🚫 DRAGONBANE\n\nUn gioco di ruolo classic fantasy dalle regole semplici e dalle dinamiche immediate per entrare in un mondo ricco di magia, avventure, trabocchetti e indovinelli.\n\n🧙🏼‍♂️🐲 DUNGEONS & DRAGONS\n\nIl primo e più famoso GdR fantasy, ti porta in un mondo di eroi, mostri e avventure epiche. Basato sul d20 system, combina tre pilastri fondamentali: esplorazione, interazione sociale e combattimento.\n\n📜✍🏼 FABULA ULTIMA\n\nIspirato ai classici del genere videoludico JRPG, propone un sistema semplice e intuitivo, incentrato sia sul combattimento strategico a turni che sulla narrazione condivisa della storia e del mondo di gioco.\n\nOgni tavolo ha 5 posti disponibili!",
+              "IMAGE": "./assets/img/events/open_gdr.webp",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
