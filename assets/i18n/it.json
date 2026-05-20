@@ -253,6 +253,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2026-05-30T16:00:00Z",
+          "IMAGE": "./assets/img/events/borgo2026.jpg",
+          "TITLE": "Borgo Cosplay",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "Il 30 e 31 maggio, presso la Biblioteca Stelio Mattioni, insieme ad altre realtà ed associazioni, Alea partecipa all’evento Borgo Cosplay, organizzato dalla Cappella Underground per il Comune di Trieste.\nSabato pomeriggio e domenica tutto il giorno ci troverete con i nostri giochi da tavolo e di ruolo. I nostri master saranno impegnati, domenica dalle 14.30, nel torneo di Daggerheart, un gioco di ruolo fantasy.",
+              "IMAGE": "./assets/img/events/borgo2026.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
