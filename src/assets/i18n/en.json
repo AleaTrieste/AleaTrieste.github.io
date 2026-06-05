@@ -222,7 +222,7 @@
           "DESCRIPTION": "",
           "EXPANSION": [
             {
-              "TEXT": "📆 Friday 13 February 2026\n🕗 19:45\n📍 ALEA, via del Lavatoio 5, Trieste\n📝 Open to anyone upon registration: tinyurl.com/openalea\n🔮 Test your luck and toss the dice on this board game night.\n🎲 Free and open to non-members too!",
+              "TEXT": "📆 Friday 13 February 2026\n🕗 From 19:45\n📍 ALEA, via del Lavatoio 5, Trieste\n📝 Open to anyone upon registration: tinyurl.com/openalea\n🔮 Test your luck and toss the dice on this board game night.\n🎲 Free and open to non-members too!",
               "IMAGE": "./assets/img/events/ven13.jpg",
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
@@ -263,6 +263,19 @@
             {
               "TEXT": "On 30 and 31 May at the Biblioteca Stelio Mattioni, Alea will be part of Borgo Cosplay along with many other associations. It is an event organised by Cappella Underground for the Municipality of Trieste.\nOn Sunday afternoon and the whole day on Sunday we will be available to explain and play our board games and rpgs with you. On Sunday, at 14.30, there will also be a Daggerheart tournament with our masters.",
               "IMAGE": "./assets/img/events/borgo2026.jpg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
+        },
+        {
+          "DATE": "2026-06-20T19:45:00Z",
+          "IMAGE": "./assets/img/events/piace-caldo.jpeg",
+          "TITLE": "Open Night Some like it hot",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Saturday 20 june 2026\n🕗 19:45\n📍 ALEA, via del Lavatoio 5, Trieste\n📝 Open to anyone upon registration: tinyurl.com/openalea\n☀️  Escape the heat with board games and dice rolls.\n🏖️ Free and open to non-members too!",
+              "IMAGE": "./assets/img/events/piace-caldo.jpeg",
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]

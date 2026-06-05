@@ -266,6 +266,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2026-06-20T19:45:00Z",
+          "IMAGE": "./assets/img/events/piace-caldo.jpeg",
+          "TITLE": "Open Night A qualcuno piace caldo",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "📆 Sabato 20 giugno 2026\n🕗 Dalle 19:45\n📍 ALEA, via del Lavatoio 5, Trieste\n📝 Accesso libero su prenotazione: tinyurl.com/openalea\n☀️  Scappa dal caldo con giochi da tavolo e lanci di dadi.\n🏖️ Serata aperta anche ai non soci!",
+              "IMAGE": "./assets/img/events/piace-caldo.jpeg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
