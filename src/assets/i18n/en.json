@@ -279,6 +279,19 @@
               "ALT_TEXT": "Immagine della locandina dell'evento"
             }
           ]
+        },
+        {
+          "DATE": "2026-06-27T14:30:00Z",
+          "IMAGE": "./assets/img/events/alea_young.jpeg",
+          "TITLE": "Alea young GdR",
+          "DESCRIPTION": "",
+          "EXPANSION": [
+            {
+              "TEXT": "🔮 Have you always wanted to try a role-playing game like Dungeons & Dragons, or have you already been on a few adventures and want to discover new systems and settings?\n🧌 Alea is offering a free month of weekend adventures geared towards younger players (and any parents who don't want to sit this one out)!\n🧝🏼‍♂️ Our Game Masters will guide you through mysterious places, intriguing plots, and plenty of dice rolls.\n📝 To join, just sign up by filling out the form at the link tinyurl.com/aleayoung ⤴️\n✨ This initiative is completely free and aims to introduce interested youth to the magical world of role-playing games and to the Alea association.\n🎲 Ready to roleplay?",
+              "IMAGE": "./assets/img/events/alea_young.jpeg",
+              "ALT_TEXT": "Immagine della locandina dell'evento"
+            }
+          ]
         }
     ],
     "DESCRIPTION": [
